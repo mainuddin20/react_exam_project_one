@@ -75,6 +75,7 @@ class Footer extends Component {
                                                       <p className='pmargin'>Privacy Policy</p> 
                                                       <p className='pmargin'>Terms & Conditions</p>
                                                       <p className='pmargin'>Rulls and regulation</p>
+                                                      <p className='pmargin'>Rulls and regulation</p>
                                                       </div>   
                                                 </Col>
                                                 </div>
